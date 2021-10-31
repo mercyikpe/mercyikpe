@@ -1,3 +1,7 @@
+[![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akanksha1212/)
+[![twitter badge](https://img.shields.io/badge/@akacodegenie-30302f?style=flat&logo=twitter)](https://twitter.com/akacodegenie)
+[![medium badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=medium)](https://coderjedi.medium.com/)
+
 ### Hi there 👋
 
 <!--
@@ -5,12 +9,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on @phpsandbox
+- 🌱 I’m currently learning VueJs/TypeScript
+- 👯 I’m looking to collaborate on Open Source
+- 🤔 I’m looking for help with community building
+- 💬 Ask me about anything
+- 📫 How to reach me: Twitter - @ikpemercy
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like speaking ibibio dailect.
 -->
+
+
