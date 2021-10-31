@@ -1,10 +1,12 @@
+<!--
+
 [![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mercyikpe/)
 [![twitter badge](https://img.shields.io/badge/@akacodegenie-30302f?style=flat&logo=twitter)](https://twitter.com/mercy_ikpe)
 [![medium badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=medium)](https://mercyikpe.medium.com/)
 
 ### Hi there 👋
 
-<!--
+
 **mercyikpe/mercyikpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
