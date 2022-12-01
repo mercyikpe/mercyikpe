@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://egberinde.com/](https://egberinde.com/)
 
-- 💬 Ask me about **VueJS,NuxtJS TypeScript, JavaScript,TailwindCSS**
+- 💬 Ask me about **User Interface, HTML, CSS, TailwindCSS, BootstrapCSS, ReactJS, VueJs**
 
 - 📫 How to reach me **ikpemercy1@yahoo.com**
 
