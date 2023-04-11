@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there👋</h1>
 
-<h2 align="center">Mercy Ikpe</h2>
+<h2 align="center">I'm Mercy Ikpe</h2>
 
 <h3 align="center">A FullStack Developer (ReactJS/NodeJS/MongoDB/AWS/TailwindCSS)</h3>
 
