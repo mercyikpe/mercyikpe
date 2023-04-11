@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Mercy Ikpe</h1>
+<h1 align="center">Hi there👋, I'm Mercy Ikpe</h1>
+
+### I'm Mercy Ikpe
+
 <h3 align="center">A FullStack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/mercy_ikpe" target="blank"><img src="https://img.shields.io/twitter/follow/mercy_ikpe?logo=twitter&style=for-the-badge" alt="mercy_ikpe" /></a> </p>
