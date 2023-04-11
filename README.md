@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **User Interface, HTML, CSS, TailwindCSS, BootstrapCSS, ReactJS, VueJs**
 
-- 📫 How to reach me **ikpemercy1@yahoo.com**
+- 📫 How to reach me **mercy@egberinde.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
